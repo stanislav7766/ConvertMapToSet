@@ -1,3 +1,4 @@
 # ConvertMapToSet
-js, convert collections
+js
+Convert collections using Composition and Functor
 Map => Set
